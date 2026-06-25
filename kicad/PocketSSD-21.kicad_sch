@@ -1,0 +1,978 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "b7f52cbc-8cde-440e-ab1c-036c6e87e2e4")
+	(paper "A4")
+	(title_block
+		(title "PocketSSD")
+		(date "2026-06-24")
+		(rev "A")
+		(company "Tracelabs")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 105.41 113.03) (xy 120.65 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0de7ab7f-0665-42bd-b9bd-c945374d1e8f")
+	)
+	(wire
+		(pts
+			(xy 105.41 92.71) (xy 120.65 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18fd9fcd-38d9-47e1-8944-7ea7b2bc7229")
+	)
+	(wire
+		(pts
+			(xy 63.5 63.5) (xy 73.66 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24d01cd3-d80e-43ee-947f-3bd1dfefd48f")
+	)
+	(wire
+		(pts
+			(xy 63.5 116.84) (xy 80.01 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25a08f4e-2dc5-428f-a82d-f4602d2467ef")
+	)
+	(wire
+		(pts
+			(xy 105.41 107.95) (xy 120.65 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26519c37-2517-4847-9c8c-47b4cea814c0")
+	)
+	(wire
+		(pts
+			(xy 73.66 78.74) (xy 80.01 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f57213f-bfe7-4919-b8f8-7752f25c40ee")
+	)
+	(wire
+		(pts
+			(xy 73.66 63.5) (xy 73.66 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30c2fb2a-a07d-45d5-812e-b97c2d81592f")
+	)
+	(wire
+		(pts
+			(xy 63.5 121.92) (xy 80.01 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3725b425-9ed4-45ac-8e8f-c73a550171be")
+	)
+	(wire
+		(pts
+			(xy 105.41 85.09) (xy 120.65 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b5d776b-6baa-4343-9e64-7355ccd6ce8e")
+	)
+	(wire
+		(pts
+			(xy 63.5 99.06) (xy 80.01 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cb2e1ef-b9f0-4cdd-8eea-ac0c70a3013f")
+	)
+	(wire
+		(pts
+			(xy 63.5 83.82) (xy 80.01 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40b19d42-2f3f-4b92-848f-ca097cc1e749")
+	)
+	(wire
+		(pts
+			(xy 105.41 90.17) (xy 120.65 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41193b78-a161-42a3-a287-099ba59d3686")
+	)
+	(wire
+		(pts
+			(xy 105.41 100.33) (xy 120.65 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4db436c4-8a83-4c49-ba3e-02e0176d9c0d")
+	)
+	(wire
+		(pts
+			(xy 105.41 123.19) (xy 120.65 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f535717-ebb0-46d4-8ffc-5f392a3996f7")
+	)
+	(wire
+		(pts
+			(xy 105.41 120.65) (xy 120.65 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66744361-51cc-4ad9-b1ce-4f2754b2290d")
+	)
+	(wire
+		(pts
+			(xy 105.41 105.41) (xy 120.65 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69cb4c83-f7be-4fd8-b06e-63232d7603ef")
+	)
+	(wire
+		(pts
+			(xy 63.5 109.22) (xy 80.01 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a33ff35-de73-4e7e-89c3-e030daf27170")
+	)
+	(wire
+		(pts
+			(xy 105.41 87.63) (xy 120.65 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8aa59978-966a-4c99-a29e-e6748524e249")
+	)
+	(wire
+		(pts
+			(xy 63.5 93.98) (xy 80.01 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e3bc244-bb7d-4fce-9f76-54b2361a7eac")
+	)
+	(wire
+		(pts
+			(xy 63.5 91.44) (xy 80.01 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96f504db-16c6-413c-b89a-c0601b9eab79")
+	)
+	(wire
+		(pts
+			(xy 105.41 97.79) (xy 120.65 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b00a0f37-c8f4-48be-8625-dfbdfebcc841")
+	)
+	(wire
+		(pts
+			(xy 63.5 86.36) (xy 80.01 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d037a7f7-6367-4669-a167-cc766c956aa8")
+	)
+	(wire
+		(pts
+			(xy 63.5 106.68) (xy 80.01 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d38e55ad-aaed-4323-bff0-c47494312814")
+	)
+	(wire
+		(pts
+			(xy 63.5 101.6) (xy 80.01 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5061992-087f-42de-bd85-a4561428482f")
+	)
+	(wire
+		(pts
+			(xy 105.41 115.57) (xy 120.65 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d89a1963-387b-4ea7-a2f7-eaa7755f06be")
+	)
+	(wire
+		(pts
+			(xy 63.5 114.3) (xy 80.01 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de2e05be-ce6a-439e-9a3c-1a44a8c681ef")
+	)
+	(wire
+		(pts
+			(xy 63.5 124.46) (xy 80.01 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f45489ae-13ec-470e-aafc-33fee674541f")
+	)
+	(sheet
+		(at 38.1 44.45)
+		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 67 255 69 1)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "65673d37-6b0e-4ecf-ad76-e4862712dd84")
+		(property "Sheetname" "Power"
+			(at 38.1 43.7384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 38.1 70.4346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3V3_PG" input
+			(at 63.5 63.5 0)
+			(uuid "97d9f8b6-809c-4cbc-b140-2d92080ebaa2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "PocketSSD-21"
+				(path "/b7f52cbc-8cde-440e-ab1c-036c6e87e2e4"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 76.2)
+		(size 25.4 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 67 255 69 1)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7623f112-b45b-4309-9398-aa70ed1d775c")
+		(property "Sheetname" "Bridge_JMS583"
+			(at 80.01 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Bridge_RTL2910B.kicad_sch"
+			(at 80.01 127.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3V3_PG" input
+			(at 80.01 78.74 180)
+			(uuid "f7a0664a-fc00-42b5-89be-35957f38068b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CC1" input
+			(at 80.01 83.82 180)
+			(uuid "cf16c832-c1db-4bf2-a96c-3bb8290c2642")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CC2" input
+			(at 80.01 86.36 180)
+			(uuid "52975611-ea24-4437-8093-fb2c367a1cd6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_N" input
+			(at 80.01 93.98 180)
+			(uuid "20a523e9-abdb-4ddb-96b6-fd559aa1a6ef")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_P" input
+			(at 80.01 91.44 180)
+			(uuid "a91b95f6-4fca-49f3-aaf3-b87a8bae39c1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P_CLKREQN" input
+			(at 105.41 85.09 0)
+			(uuid "ca89a3ec-868f-4ecc-bc1f-b68b2783c250")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "P_CLK_N" input
+			(at 105.41 87.63 0)
+			(uuid "ee6eeeed-0f24-4ba5-9c0c-80b61bd7c764")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "P_CLK_P" input
+			(at 105.41 90.17 0)
+			(uuid "ec6522b0-77a9-4ada-8814-7806c40dd3e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "P_RSTN" input
+			(at 105.41 92.71 0)
+			(uuid "56766b99-8b4b-4b85-a886-9becc2ea6c2e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "P_RX0_N" input
+			(at 105.41 97.79 0)
+			(uuid "44e87e49-546c-4d44-b738-a9ed96042e6e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "P_RX0_P" input
+			(at 105.41 100.33 0)
+			(uuid "7d22664e-69da-4cef-b522-cec349168536")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "P_RX1_N" input
+			(at 105.41 105.41 0)
+			(uuid "9653f069-d214-4481-b725-22337c3e124b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "P_RX1_P" input
+			(at 105.41 107.95 0)
+			(uuid "251217c8-ad9d-4ecb-885c-f356a83b506a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "P_TX0_N" input
+			(at 105.41 113.03 0)
+			(uuid "f53cd466-21d8-46f1-952e-edbffe036dc0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "P_TX0_P" input
+			(at 105.41 115.57 0)
+			(uuid "a044f39f-ab4e-4038-968d-aa0177680328")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "P_TX1_N" input
+			(at 105.41 120.65 0)
+			(uuid "cce3eee7-adfb-4255-8956-c140d74e7b8b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "P_TX1_P" input
+			(at 105.41 123.19 0)
+			(uuid "41f83d28-ac69-447e-b1ab-56fc2631337b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RX1_N" input
+			(at 80.01 101.6 180)
+			(uuid "e7747fb3-c4ea-48ac-8c5b-cf649d7aa1b2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX1_P" input
+			(at 80.01 99.06 180)
+			(uuid "041b592f-7eaa-46dd-ac1c-9f4c40dc8647")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX2_N" input
+			(at 80.01 109.22 180)
+			(uuid "147103b1-bc69-4ab6-a864-13fde38a1d4e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX2_P" input
+			(at 80.01 106.68 180)
+			(uuid "dacdfaa2-3988-4c8f-b224-6080393e7173")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX1_N" input
+			(at 80.01 116.84 180)
+			(uuid "e55b6d31-3850-492f-9a38-5a203fa88708")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX1_P" input
+			(at 80.01 114.3 180)
+			(uuid "e481220d-3a00-47bb-aec9-184664b35ae3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX2_N" input
+			(at 80.01 124.46 180)
+			(uuid "a9fdcce8-c505-43b2-913a-f3d9a9b22aa2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX2_P" input
+			(at 80.01 121.92 180)
+			(uuid "6ea6af0c-783f-40d2-8c8b-783106df470d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "PocketSSD-21"
+				(path "/b7f52cbc-8cde-440e-ab1c-036c6e87e2e4"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 76.2)
+		(size 25.4 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 67 255 69 1)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7fe966c8-53ca-475f-9f5d-588e90b82d59")
+		(property "Sheetname" "M2_Connector"
+			(at 120.65 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "M2_Connector.kicad_sch"
+			(at 120.65 127.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "P_CLKREQN" input
+			(at 120.65 85.09 180)
+			(uuid "33016aa0-6869-4877-9b7d-76d05a3849a8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P_CLK_N" input
+			(at 120.65 87.63 180)
+			(uuid "0b8f99f6-d572-41a9-b6af-9359da8dd20b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P_CLK_P" input
+			(at 120.65 90.17 180)
+			(uuid "dbd03e28-1ef4-444d-8457-64b875de29a3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P_RSTN" input
+			(at 120.65 92.71 180)
+			(uuid "7c430386-1422-4b08-9161-429db05c086e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P_RX0_N" input
+			(at 120.65 97.79 180)
+			(uuid "a968217f-7c77-44c4-946e-be4463b318dd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P_RX0_P" input
+			(at 120.65 100.33 180)
+			(uuid "99e4e84d-6323-43d4-a1c7-7674b44ab1e7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P_RX1_N" input
+			(at 120.65 105.41 180)
+			(uuid "79ae6a2b-54d0-4619-9bc4-76541d2f6624")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P_RX1_P" input
+			(at 120.65 107.95 180)
+			(uuid "8dd4ee86-abe5-40a5-99ad-6ff743b70e61")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P_TX0_N" input
+			(at 120.65 113.03 180)
+			(uuid "e12ebee6-0330-4433-b4ac-7f6bc4f4d92b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P_TX0_P" input
+			(at 120.65 115.57 180)
+			(uuid "7f518507-f428-4014-adac-1de11005ddd7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P_TX1_N" input
+			(at 120.65 120.65 180)
+			(uuid "cacf5972-664b-470e-8389-6ae34bd0c088")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P_TX1_P" input
+			(at 120.65 123.19 180)
+			(uuid "f4c24863-db5e-47f4-8f45-12c9437c7a83")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "PocketSSD-21"
+				(path "/b7f52cbc-8cde-440e-ab1c-036c6e87e2e4"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 76.2)
+		(size 25.4 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 67 255 69 1)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d63dfbee-14d7-4f05-9310-b8954cb6a62e")
+		(property "Sheetname" "USB-C_Interface"
+			(at 38.1 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB-C_Interface.kicad_sch"
+			(at 38.1 127.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CC1" input
+			(at 63.5 83.82 0)
+			(uuid "3a3b3199-4590-4cc5-8c52-fca37dedc258")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CC2" input
+			(at 63.5 86.36 0)
+			(uuid "7c016a51-61e6-4482-8514-4dd580fe21a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D_N" input
+			(at 63.5 93.98 0)
+			(uuid "23c814cb-d975-40e9-86a6-8074bc2b541e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D_P" input
+			(at 63.5 91.44 0)
+			(uuid "d88d1b6e-eaf7-48ef-bf53-b0d2da500087")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RX1_N" input
+			(at 63.5 101.6 0)
+			(uuid "9e9722a2-779c-4090-961c-466a8352d509")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RX1_P" input
+			(at 63.5 99.06 0)
+			(uuid "16155770-8f70-4c38-92df-bc33cf8afd3a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RX2_N" input
+			(at 63.5 109.22 0)
+			(uuid "076c5c25-21e0-4acd-9f05-596a81c39b43")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RX2_P" input
+			(at 63.5 106.68 0)
+			(uuid "1b5c55b8-696e-4c5a-a59e-1a3fd04a1573")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TX1_N" input
+			(at 63.5 116.84 0)
+			(uuid "760b56e4-a1d3-46d0-9937-aa9632a3381d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TX1_P" input
+			(at 63.5 114.3 0)
+			(uuid "3eedfd64-e7ae-4f4c-b3dd-cc9c9456004b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TX2_N" input
+			(at 63.5 124.46 0)
+			(uuid "256f255c-73fc-4cf3-b222-8036ddb03dff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TX2_P" input
+			(at 63.5 121.92 0)
+			(uuid "4c950106-bcec-4367-84bf-55a118830e03")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "PocketSSD-21"
+				(path "/b7f52cbc-8cde-440e-ab1c-036c6e87e2e4"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
